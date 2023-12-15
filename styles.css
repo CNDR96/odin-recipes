@@ -17,3 +17,11 @@ ul {
 h1 {
     text-align: center;
 }
+a {
+    color: black;
+    font-size: 22px;
+    text-decoration:wavy;
+}
+a:hover {
+    color: white;
+}   
