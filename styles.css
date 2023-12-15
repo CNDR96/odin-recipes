@@ -1,0 +1,19 @@
+body {
+    background-color: hsla(39, 76%, 21%, 0.473);
+}
+
+.book {
+    width: 700px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+ul {
+    text-align: center;
+    display: inline;
+}
+
+h1 {
+    text-align: center;
+}
