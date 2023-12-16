@@ -8,22 +8,32 @@ body {
     display: block;
     margin: auto;
     border-radius: 30px;
-    bor
 }
 
-ul {
+.recipe-index {
     text-align: center;
-    display: inline;
+    list-style-type: none;
 }
 
-h1 {
+h1,
+h2 {
     text-align: center;
 }
+
 a {
     color: black;
     font-size: 22px;
     text-decoration:wavy;
 }
+
 a:hover {
     color: white;
-}   
+} 
+
+.sandwich {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: auto;
+    border-radius: 30px;
+}
