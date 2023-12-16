@@ -37,3 +37,8 @@ a:hover {
     margin: auto;
     border-radius: 30px;
 }
+
+.home {
+   text-align: center;
+   display: block;
+}
