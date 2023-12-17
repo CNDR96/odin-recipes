@@ -38,7 +38,23 @@ a:hover {
     border-radius: 30px;
 }
 
+.wrap {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: auto;
+    border-radius: 30px;
+}
+
 .home {
    text-align: center;
    display: block;
+}
+
+.pasta {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: auto;
+    border-radius: 30px;
 }
