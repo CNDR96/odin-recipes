@@ -58,3 +58,7 @@ a:hover {
     margin: auto;
     border-radius: 30px;
 }
+
+.center {
+    text-align: center;
+}
